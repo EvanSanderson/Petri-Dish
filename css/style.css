@@ -1,0 +1,76 @@
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Roboto Light", "Segoe UI Web Light", "Segoe UI Light", "Segoe UI Web Regular", "Segoe UI", Helvetica, Arial, sans-serif;
+  margin: 1em;
+  background: #293950;
+  color: #ecf0f0;
+}
+section {
+  margin: 0 auto;
+}
+h1 {
+  font-weight: normal;
+  font-size: 2.4em;
+  margin-bottom: 0;
+}
+text {
+  color: white;
+}
+
+#graph {
+  	width: 100%;
+	text-align: center;
+}
+.green {
+  fill: green;
+  background: green;
+}
+
+.blue {
+  fill: blue;
+  background: blue;
+}
+
+.red {
+  fill: red;
+  background: red;
+}
+
+.yellow {
+  fill: yellow;
+  background: yellow;
+}
+
+.gray {
+  fill: grey;
+  background: grey;
+}
+
+.orange {
+  fill: orange;
+  background: orange;
+}
+
+.black {
+  fill: black;
+  background: black;
+}
+
+.white {
+  fill: white;
+  background: white;
+}
+
+.pink {
+  fill: pink;
+  background: pink;
+}
+
+.purple {
+  fill: purple;
+  background: purple;
+}
+
+.teal {
+  fill: teal;
+  background: teal;
+}
